@@ -1,3 +1,2 @@
 secrets/*
-argocd/install.yaml
 /*.iml
